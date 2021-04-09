@@ -11,7 +11,6 @@ namespace UPMG
             var triangleCount = (width - 1) * (height - 1) * 2;
             var vertices = new Vector3[verticesCount];
             var triangles = new int[triangleCount * 3];
-            Debug.Log(triangleCount * 3);
             var trisIndex = 0;
             for (var w = 0; w < width; w++)
             {
