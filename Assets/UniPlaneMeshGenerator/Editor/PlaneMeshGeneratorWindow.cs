@@ -6,7 +6,7 @@ namespace UPMG
 {
     public class PlaneMeshGeneratorWindow : EditorWindow
     {
-        private const string Title = "Mesh Transformer";
+        private const string Title = "Plane Mesh Generator";
 
         private int _width;
         private int _height;
