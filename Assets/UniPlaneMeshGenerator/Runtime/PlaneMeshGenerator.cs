@@ -42,6 +42,9 @@ namespace UPMG
             }
 
             var mesh = new Mesh {vertices = vertices, triangles = triangles, uv = uvs};
+            mesh.RecalculateBounds();
+            mesh.RecalculateNormals();
+            mesh.RecalculateTangents();
             return mesh;
         }
     }
