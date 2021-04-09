@@ -4,6 +4,8 @@ Plane mesh generator for Unity
 ## DEMO
 ![demo](https://github.com/sanukin39/UniPlaneMeshGenerator/blob/main/images/demo.gif)
 
+### Supports UV
+![menu](https://github.com/sanukin39/UniPlaneMeshGenerator/blob/main/images/uv.png)
 
 ## Install
 ### Package Manager
