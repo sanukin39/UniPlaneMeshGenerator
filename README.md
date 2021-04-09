@@ -11,10 +11,10 @@ Plane mesh generator for Unity
 ### Package Manager
 Add following url at package manager
 
-`git@github.com:sanukin39/UniPlaneMeshGenerator.git?path=/Assets/UniPlaneMeshGenerator#1.0.1`
+`git@github.com:sanukin39/UniPlaneMeshGenerator.git?path=/Assets/UniPlaneMeshGenerator#1.0.2`
 
 ### Unity Package
-Download unitypackage from [release](https://github.com/sanukin39/UniPlaneMeshGenerator/releases/tag/1.0.1) page
+Download unitypackage from [release](https://github.com/sanukin39/UniPlaneMeshGenerator/releases/tag/1.0.2) page
 
 ## Usage
 Select Window->UniPlaneMeshGenerator to open editor window
